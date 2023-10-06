@@ -108,7 +108,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: www.linkedin.com/in/sunidhi-shinde-690784225
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Sunidhi shinde,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -192,7 +192,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:sunidhishinde28@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting

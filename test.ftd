@@ -1,1 +1,11 @@
 -- ftd.text: hello world
+-- import: package/header as navbar
+
+-- navbar.header:
+logo: $assests.files.images.logo.svg
+LogoUrl:/portfolio
+Header-item-1:Home
+Header-itemheader-item1-link: /portfolio/home
+header-item2-link: /portfolio/about
+header-item1-link: /portfolio
+header-item2-link: /portfolio/about
