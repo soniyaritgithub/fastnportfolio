@@ -95,7 +95,8 @@ link: mailto:sunidhishinde28@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: zoom
+
 isNewTab: true
 
 -- end: ftd.row
